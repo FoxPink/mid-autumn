@@ -1,0 +1,23 @@
+body {
+  overflow: hidden;
+}
+
+.top-start {
+  transform: translateY(-100%);
+}
+
+.right-start {
+  transform: translateX(100%);
+}
+
+.left-start {
+  transform: translateX(-100%);
+}
+
+.translateX-end {
+  transform: translateX(0);
+}
+
+.translateY-end {
+  transform: translateX(0);
+}
